@@ -1,0 +1,4 @@
+1. Separate and sort each list
+2. Make a list of the distances of each ranked pair from both lists
+   ie. d=abs(a-b)
+3. Sum every member of distance list for output
