@@ -1,0 +1,5 @@
+1. Read in text file and process it into a list of lists of u-ints
+2. Count how many lines are safe
+   a. all levels are either rising or falling
+   b. all levels rise/fall >=1 and <=3
+3. Sum up and return the total number of safe reports
